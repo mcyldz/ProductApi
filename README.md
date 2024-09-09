@@ -141,11 +141,11 @@ This project uses MySQL as the database. To configure the database, follow these
 
 1. Install MySQL and create a database:
 ```sql
-  CREATE DATABASE product_db;
+  CREATE DATABASE jpa;
 ```
 2. Configure the connection settings in application.properties:
 ```
-  spring.datasource.url=jdbc:mysql://localhost:3306/product_db
+  spring.datasource.url=jdbc:mysql://localhost:3306/jpa
   spring.datasource.username=root
   spring.datasource.password=yourpassword
   spring.jpa.hibernate.ddl-auto=update
