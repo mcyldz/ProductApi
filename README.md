@@ -13,7 +13,6 @@ Welcome to the documentation for the ProductAPI, a RESTful API for managing prod
   - [Delete Products](#delete-products)
   - [Get Custom Query Result](#get-custom-query-result)
 - [Database Configuration](#database-configuration)
-- [Endpoints](#endpoints)
 
 ## Endpoints
 
